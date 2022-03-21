@@ -5266,7 +5266,7 @@ rhetoric, a worrisome vote in the US senate, NEST fails to respond to a research
 <author>leo@twit.tv (Leo Laporte)</author>
 <category>Technology</category>
 <category>Security</category>
-<description>Leo and I discuss last week’s major attack on DNS, answering the question of whether or not the Internet is still working.  We look at Linux’s worrisome “Dirty COW” bug, rediscovered in the kernel after nine years.  We address the worrisome average lifetime of Linux bugs; share a bit of errata and miscellany; and offer an in-depth analysis of Drammer, the new, largely unpatchable, Android mobile device Rowhammer 30second exploit.</description>
+<description>Leo and I discuss last week’s major attack on DNS, answering the question of whether or not the Internet is still working.  We look at Linux’s worrisome “Dirty COW” bug, rediscovered in the kernel after nine years.  We address the worrisome average lifetime of Linux bugs; share a bit of errata and miscellany; and offer an in-depth analysis of Drammer, the new, largely unpatchable, Android mobile device Rowhammer 30 second exploit.</description>
 <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0583/sn0583.mp3</guid>
 <itunes:explicit>no</itunes:explicit>
 <itunes:duration>1:54:00</itunes:duration>
